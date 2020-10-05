@@ -1,1 +1,3 @@
-# Dotnet-Core2-Starter-Kit
+```
+dotnet run
+```
